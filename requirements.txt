@@ -1,0 +1,7 @@
+numpy
+librosa
+sounddevice
+paho-mqtt
+joblib
+scipy
+sounddevice
